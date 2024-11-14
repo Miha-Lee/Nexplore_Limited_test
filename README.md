@@ -6,7 +6,8 @@
  Test: Jest
 
  Small reminder: Before we start the frontend project, I prefer we start the backend server first, 
- otherwise, there will be some exceptions at the frontend, which will affect the Fetching todo items or Unit Test. 
+ otherwise, there will be some exceptions at the frontend, which will affect the Fetching 
+ todo items or Unit Test. 
 
  Backend Setup Guide:
  1. We need to go to the backend folder, and locate to the sql folder, inside the folder, you are able to see the "todo.sql" file, 
