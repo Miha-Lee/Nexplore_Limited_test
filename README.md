@@ -34,7 +34,8 @@
     we can run "npm run dev" to launch the backend server. 
  
     <img width="400" alt="npm run dev" src="https://github.com/user-attachments/assets/9a27db2e-d393-4aa8-9f27-9e067fddc233">
- 6. One last small reminder, I prefer we see the words of "App is listening 3000", then we launch the frontend.
+ 6. One last small reminder, I prefer we see the words of "App is listening 3000", 
+    then we launch the frontend.
     
     <img width="588" alt="3000" src="https://github.com/user-attachments/assets/c82e710f-4b8b-4214-9b33-de5923a8cc2d">
 
