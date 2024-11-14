@@ -47,5 +47,16 @@ Frontend Setup Guide:
 
 
 Demos:
+1. Homepage:
  
+   <img width="960" alt="homepage" src="https://github.com/user-attachments/assets/d903ac8b-d6e4-4787-89a6-c759f5e0ade5">
+2. Add Todo Item:
+ 
+ <img width="960" alt="add" src="https://github.com/user-attachments/assets/3c94536f-2246-4324-a505-afad2386a721">
+3. Edit Todo Item:
+ 
+ <img width="960" alt="edit" src="https://github.com/user-attachments/assets/8bc42094-a149-4e9a-a00e-1982ab589647">
+4. Delete Todo Item:
+ 
+ <img width="960" alt="delete" src="https://github.com/user-attachments/assets/b9fbc09c-64e2-418b-9256-3f097fcb02a8">
 </pre>
