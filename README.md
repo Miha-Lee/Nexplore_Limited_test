@@ -59,4 +59,14 @@ Demos:
 4. Delete Todo Item:
  
  <img width="960" alt="delete" src="https://github.com/user-attachments/assets/b9fbc09c-64e2-418b-9256-3f097fcb02a8">
+
+
+Jest Testing:
+1. Frontend:
+   go to the root folder of the "frontend" and run "npm run test".
+ 
+   <img width="400" alt="frontend jest" src="https://github.com/user-attachments/assets/e2c79490-a724-4ba2-abec-9f59e984c086">
+ 
+   <img width="576" alt="frontend jest success" src="https://github.com/user-attachments/assets/3831eba6-ab89-4496-861c-ae8a21c9284d">
+
 </pre>
