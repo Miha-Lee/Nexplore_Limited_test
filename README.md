@@ -68,5 +68,10 @@ Jest Testing:
    <img width="400" alt="frontend jest" src="https://github.com/user-attachments/assets/e2c79490-a724-4ba2-abec-9f59e984c086">
  
    <img width="576" alt="frontend jest success" src="https://github.com/user-attachments/assets/3831eba6-ab89-4496-861c-ae8a21c9284d">
-
+2. Backend:
+   go to the root folder of the "backend" and run "npm run test".
+ 
+   <img width="396" alt="npm run test backend" src="https://github.com/user-attachments/assets/c300ddbd-fb61-41bf-adfc-fce96e6120e0">
+ 
+   <img width="585" alt="backend success" src="https://github.com/user-attachments/assets/73d19792-4dac-4b06-80de-2d0f7c494689">
 </pre>
