@@ -26,4 +26,7 @@
     <img width="758" alt="pgadmin 3" src="https://github.com/user-attachments/assets/68abcc43-7008-4bdd-9fda-8e32ffa0999f">
 
     <img width="758" alt="pgadmin 4" src="https://github.com/user-attachments/assets/0e6ab5f5-97e7-4266-af0b-1de4d8dcacc1">
+ 4. After we finished steps above, we can go to the backend root folder and run "npm install".
+ 
+    <img width="400" alt="backend" src="https://github.com/user-attachments/assets/140de006-e327-4cbd-8c94-0ab80cfbdfe4">
 </pre>
