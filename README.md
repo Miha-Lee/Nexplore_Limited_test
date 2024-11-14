@@ -45,7 +45,8 @@ Frontend Setup Guide:
    we can "cd" into frontend root folder. And run "npm install".
  
    <img width="374" alt="frontend" src="https://github.com/user-attachments/assets/57e9de07-f337-4105-b52a-7c12c432cb5e">
-2. When we finished the installation of frontend dependencies, we run "npm run dev" to launch the frontend.
+2. When we finished the installation of frontend dependencies, 
+   we run "npm run dev" to launch the frontend.
  
   <img width="381" alt="frontend npm run dev" src="https://github.com/user-attachments/assets/42359fa6-e321-4035-a567-890684fe55f9">
 
