@@ -18,4 +18,11 @@
     <img width="758" alt="pgadmin 1" src="https://github.com/user-attachments/assets/e4c6a901-a83c-482d-b3c4-6510c240879f">
  
     <img width="758" alt="pgadmin 2" src="https://github.com/user-attachments/assets/65f8055a-cc62-45ac-a340-1e4b0aaa3d16">
+ 3. We need to setup the ".env" file, which we are going to copy the variables from the ".env.example" first and replace with the pgadmin values.
+ 
+    <img width="822" alt="env" src="https://github.com/user-attachments/assets/5664a36d-8175-46eb-a3a7-3110e89acfa5">
+
+    <img width="758" alt="pgadmin 3" src="https://github.com/user-attachments/assets/68abcc43-7008-4bdd-9fda-8e32ffa0999f">
+
+    <img width="758" alt="pgadmin 4" src="https://github.com/user-attachments/assets/0e6ab5f5-97e7-4266-af0b-1de4d8dcacc1">
 </pre>
