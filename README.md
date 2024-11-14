@@ -10,8 +10,8 @@
  todo items or Unit Test. 
 
  Backend Setup Guide:
- 1. We need to go to the backend folder, and locate to the sql folder, inside the folder, you are able to see the "todo.sql" file, 
-    which we will copy to pgadmin and execute the query.
+ 1. We need to go to the backend folder, and locate to the sql folder, inside the folder, 
+    you are able to see the "todo.sql" file, which we will copy to pgadmin and execute the query.
  
     <img width="820" alt="sql" src="https://github.com/user-attachments/assets/6bf668ef-534a-4046-b0bb-9a405215c463">
  2. Next, we copy this sql syntax and paste it to the pgadmin. And run the sql query.
