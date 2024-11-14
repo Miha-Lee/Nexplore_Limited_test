@@ -38,4 +38,8 @@
 
  
 Frontend Setup Guide:
+1. After we finished the backend server setup, we can "cd" into frontend root folder. And run "npm install".
+ 
+   <img width="374" alt="frontend" src="https://github.com/user-attachments/assets/57e9de07-f337-4105-b52a-7c12c432cb5e">
+
 </pre>
