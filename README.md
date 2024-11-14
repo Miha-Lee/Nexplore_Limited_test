@@ -29,4 +29,7 @@
  4. After we finished steps above, we can go to the backend root folder and run "npm install".
  
     <img width="400" alt="backend" src="https://github.com/user-attachments/assets/140de006-e327-4cbd-8c94-0ab80cfbdfe4">
+ 5. When we finished the downloading of the dependencies, we can run "npm run dev" to launch the backend server. 
+ 
+    <img width="400" alt="npm run dev" src="https://github.com/user-attachments/assets/9a27db2e-d393-4aa8-9f27-9e067fddc233">
 </pre>
